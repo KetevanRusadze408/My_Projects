@@ -1,0 +1,2 @@
+HOTEL_DWH_BI/presentation_csv/city_hotel_initial_95.csv filter=lfs diff=lfs merge=lfs -text
+HOTEL_DWH_BI/presentation_csv/resort_hotel_initial_95.csv filter=lfs diff=lfs merge=lfs -text
